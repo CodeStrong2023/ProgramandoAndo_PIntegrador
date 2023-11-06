@@ -4,7 +4,7 @@
     <p>Este programa es ideal para pequeñas y medianas empresas que buscan una solución sencilla y eficaz para la gestión de inventarios y stocks. Con este programa, los usuarios pueden asegurarse de que tienen un control total sobre sus productos, desde la carga hasta la venta.</p>
     <hr>
     <p>Link a Repositorio: <a href="https://github.com/ezelorenz/ProyectoIntegrador-ProgramandoAndo-FRSR2023" target="_blank">Proyecto Integrador - Programando Ando - FRSR 2023</a> </p>
-<br><hr>
+    <hr>
 <table>
   <tr>
     <th>Alumno</th>
